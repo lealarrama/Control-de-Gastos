@@ -242,7 +242,7 @@ main {
     gap: 2rem;
 }
 .filtros label {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;
     color: var(--gris-oscuro);
 }
